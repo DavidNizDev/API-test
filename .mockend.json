@@ -1,5 +1,5 @@
-{
+[{
   "User": {"name": "sasa"}, {"id": "1"},
   "Post": {"uno"}, {"dos"},
   "City": {"ros"}, {"caba"}
-}
+}]
