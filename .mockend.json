@@ -1,5 +1,5 @@
-
-  "User": {"dada"},
-  "Post": {"queseyo"},
-  "City": {"nideapapi"}
-
+{
+  {"User": "dada"},
+  {"Post": "queseyo"},
+  {"City": "nideapapi"}
+}
